@@ -2,7 +2,7 @@
 
 A simple tool for Hyprland that would make your mouse stay inside the active window if said window cannot grab your mouse by itself.
 
-Every time the mouse tries to get out of the window, it gets moved to the opposite side, which idk if it's useful for LoL but it works a lot better with FPS games.
+Every time the mouse tries to get out of the window, it gets moved to the opposite side, which idk if it's useful for LoL but it works pretty well (in my experience) with FPS games.
 
 All you need to do is just:
 ```
